@@ -1,0 +1,71 @@
+#main {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #babbb6;
+  padding: 10px;
+}
+#heading-1 {
+  color: #5d5e58;
+  background-color: #ddded9;
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.ph-scale {
+  color: white;
+  padding: 8px;
+  font-size: 15px;
+}
+
+span{
+    font-size: 25px;
+}
+
+#sub1 {
+  background-color: #3479b0;
+}
+#sub2 {
+  background-color: #3686b9;
+}
+#sub3 {
+  background-color: #3292c0;
+}
+#sub4 {
+  background-color: #469fcb;
+}
+#sub5 {
+  background-color: #5eacd3;
+}
+#sub6 {
+  background-color: #75bada;
+}
+#sub7 {
+  background-color: #8fc2dd;
+}
+#sub8 {
+    color: white;
+  background-color: #23ab7d;
+  padding: 10px;
+}
+#sub9 {
+  background-color: #eba8c1;
+}
+#sub10 {
+  background-color: #eb98b6;
+}
+#sub11 {
+  background-color: #e686a7;
+}
+#sub12 {
+  background-color: #e17499;
+}
+#sub13 {
+  background-color: #e1658a;
+}
+#sub14 {
+  background-color: #da567e;
+}
+#sub15 {
+  background-color: #d93772;
+}
